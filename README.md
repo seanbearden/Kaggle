@@ -6,4 +6,6 @@ A workspace for Kaggle development
 - clone learntools into tools directory:
     ```bash
     git clone https://github.com/Kaggle/learntools.git
+    cd learntools/
+    pip install .
     ```
